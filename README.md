@@ -34,3 +34,6 @@ Let's go through the code step by step:
 5. The `if __name__ == '__main__':` block ensures that the `main()` function is executed when the script is run directly.
 
 Overall, this code sets up a Streamlit application that allows users to upload multiple PDF documents, processes the documents to enable conversational interactions, and provides responses based on the content of the PDFs using a conversational AI model.
+
+Run the Script:
+`streamlit run app.py`

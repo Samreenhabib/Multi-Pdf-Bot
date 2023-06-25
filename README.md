@@ -37,3 +37,6 @@ Overall, this code sets up a Streamlit application that allows users to upload m
 
 Run the Script:
 `streamlit run app.py`
+
+![pdfbot](https://github.com/Samreenhabib/Multi-Pdf-Bot/assets/92440041/b096f76b-f58d-47eb-8434-6f1724573921)
+
